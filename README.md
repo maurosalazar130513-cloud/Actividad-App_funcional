@@ -17,7 +17,7 @@ npm install
 
 Para iniciar el servidor:
 
--En app_node
+- En app_node
 npm run dev
 
 - En app_react
